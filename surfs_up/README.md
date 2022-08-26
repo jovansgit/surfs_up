@@ -6,9 +6,12 @@ Our goal is to analyze temperature data in Oahu, in order to determine if a surf
 
 ## Results:
  * June Temps
+ 
  ![June_Temps](Resources/june_temps.png)
 
  * December Temps
+
+
  ![December_Temps](Resources/december_temps.png) 
  
 - The average temperature for the month of June is 3.903 degrees higher than December
@@ -20,9 +23,13 @@ Our goal is to analyze temperature data in Oahu, in order to determine if a surf
 In summary the diffeneces between the temperatures in June and December are not great enough to deter investing in Surf n Shake.  In addition to perform temperature analysis we also analyzed Percipitation differences in June and December.   The summary of our finidngs are below.
 
  * June Percipitation
+
+
  ![June_Percipitation](Resources/June_Percipitation.png) 
  
 
  * December Percipitation
+
+
  ![December_Percipitation](Resources/December_Percipitation.png) 
 
