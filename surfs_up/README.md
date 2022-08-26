@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-Our goal is to analyze temperature data in Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.  Our data has been stored in a SQLite database and we used SQLAlchemy to execute queries for our analysis.  We will pay particularly close attention to the months of June and December.
+The goal of this project is to analyze temperature data in Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.  Our data has been stored in a SQLite database and we used SQLAlchemy to execute queries for our analysis.  We will pay close attention to the months of June and December.  Our queries are particularly focused on temperature and percipitation amouns in the city of Oahu.
 
 ## Results:
  * June Temps
